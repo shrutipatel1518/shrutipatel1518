@@ -12,8 +12,15 @@
 ![](https://streak-stats.demolab.com/?user=shrutipatel1518&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shrutipatel1518&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+<div align="center">
+  
+  ![snake gif](https://github.com/shrutipatel1518/shrutipatel1518/blob/output/github-snake-dark.svg)
+
+</div>
+
 ---
 [![](https://komarev.com/ghpvc/?username=shrutipatel1518&icon=4&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
